@@ -33,8 +33,7 @@ This multi-method approach allows for robustness checks and provides a more nuan
 
 1.  **Clone Repository:**
     ```bash
-    git clone https://github.com/<your-username>/digital-connectivity-standard-of-living.git
-    cd digital-connectivity-standard-of-living
+    git clone https://github.com/farazkh1/digital-connectivity-standard-of-living.git
     ```
 2.  **Create Environment (Recommended):**
     ```bash
