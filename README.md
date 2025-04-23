@@ -2,8 +2,6 @@
 
 **Team 5 | Georgia Institute of Technology | Data Visualization and Analytics**
 
-Dominique Rever | Faraz Khojasteh Far | Justin Siegel | Jonathan Meystrik | Braden Thorne | Dhruv Modi
-
 ## Overview
 
 This project investigates the complex relationship between digital connectivity (specifically fixed broadband access and internet usage) and key standard-of-living indicators (poverty rates, adult literacy) across the globe. Using a comprehensive panel dataset from the World Bank (2013-2023) combined with historical instrumental variable data, we employ a multi-method analytical strategy to move beyond simple correlations and explore potential causal links and nuances.
@@ -81,7 +79,7 @@ While FE models suggest a beneficial within-country link between broadband expan
 ## Team
 
 *   Dominique Rever
-*   Faraz Far
+*   Faraz Khojasteh Far
 *   Justin Siegel
 *   Jonathan Meystrik
 *   Braden Thorne
