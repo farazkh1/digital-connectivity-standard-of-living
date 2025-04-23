@@ -2,7 +2,7 @@
 
 **Team 5 | Georgia Institute of Technology | Data Visualization and Analytics**
 
-Dominique Rever | Faraz Far | Justin Siegel | Jonathan Meystrik | Braden Thorne | Dhruv Modi
+Dominique Rever | Faraz Khojasteh Far | Justin Siegel | Jonathan Meystrik | Braden Thorne | Dhruv Modi
 
 ## Overview
 
